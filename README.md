@@ -1,13 +1,13 @@
 ### Hi there, I'm Mwila Kaunda 👋
 <img src="cover.png" >
 
-Here are some ideas to get you started:
+#
 
 - 🌱 I’m currently learning TypeScript and Ruby
 - 💬 Ask me about JavaScript and Kotlin
 - 📫 How to reach me: bupemwila@icloud.com or +260963454336
 - ⚡ Fun fact: Can use both left and right hand to write
-
+#
 <p align="left">
   
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
